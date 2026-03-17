@@ -2,8 +2,6 @@
 
 [![C](https://img.shields.io/badge/C-Language-A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-111學年度第1學期 [MA109A]「計算機概論」 - 40012「數字跳躍」
-
 ## 題目描述
 
 考慮整數數線上的一隻蚱蜢，從數字x的地方往數字y的地方跳躍（數字x小於數字y）。
@@ -84,14 +82,6 @@ int main() {
     return 0;
 }
 ```
-
-## 技術資訊
-
-| 項目 | 說明 |
-|------|------|
-| **語言** | C |
-| **課程** | 計算機概論 (MA109A) |
-| **學期** | 111學年度第1學期 |
 
 ## 專案結構
 
